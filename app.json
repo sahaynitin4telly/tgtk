@@ -1,12 +1,12 @@
 {
-  "name": "TGTK",
+  "name": "Telly tortoolkit",
   "description": "A Telegram Bot that leeches magnet/torrent links/files from the interent. YT-DL supported for downloading youtube videos. Supports uploading to different cloud providers. ",
   "keywords": [
     "telegram","bot","torrent","leech"
   ],
-  "repository": "https://github.com/reaitten/tgtk",
-  "success_url": "https://github.com/reaitten/tgtk",
-  "website": "https://github.com/reaitten/tgtk",
+  "repository": "https://github.com/sahaynitin4telly/tgtk",
+  "success_url": "https://github.com/sahaynitin4telly/tgtk",
+  "website": "https://github.com/sahaynitin4telly/tgtk",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
